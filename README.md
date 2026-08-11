@@ -1,1 +1,2 @@
-# D3_Gr7_AI66A
+# GR7_AI66A_SE
+Dao Ngoc Hien
