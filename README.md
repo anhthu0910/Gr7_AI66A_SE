@@ -1,13 +1,20 @@
 # D3_Gr7_AI66A
 
 ## Group 7 – AI66A
+# Team Project
 
-### Team Members
+One-paragraph description of what your team is building goes here.
 
-- Nguyen Ngan An
-- Member 2
-- Member 3
-- Member 4
-- Member 5
-- Member 6
-- Member 7
+## Team
+
+| Name | GitHub username | Role |
+| --- | --- | --- |
+| Ngân An | nganannn| |
+
+## Setup
+
+```bash
+git clone <this-repo-url>
+cd <repo-name>
+```
+
