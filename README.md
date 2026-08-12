@@ -10,6 +10,7 @@ One-paragraph description of what your team is building goes here.
 | Name | GitHub username | Role |
 | --- | --- | --- |
 | Ngân An | nganannn| |
+| Tran Tue Khang | khangtrannf | Blank |
 
 ## Setup
 
