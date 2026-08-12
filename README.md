@@ -6,7 +6,10 @@ One-paragraph description of what your team is building goes here.
 
 | Name | GitHub username | Role |
 | --- | --- | --- |
+| Lê Ngọc Anh Thư | anhthu0910 | Leader |
 | Dao Ngoc Hien | dnghien | Member |
+| Ngân An | nganannn| Member |
+| Tran Tue Khang | khangtrannf | Member |
 
 ## Setup
 
